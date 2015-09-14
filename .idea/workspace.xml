@@ -23,61 +23,73 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HRTModel.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="HRTModel.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Model/HRTModel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.38112524" vertical-offset="405" max-vertical-offset="1650">
-              <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="2055">
+              <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="44.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data/Sudden_Cardiac_Death/44.txt">
+      <file leaf-file-name="101.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/MITBIH_Arrhythmia/101.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="70095" max-vertical-offset="70185">
-              <caret line="4673" column="0" selection-start-line="4673" selection-start-column="0" selection-end-line="4673" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="28215">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="214.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data/MITBIH_Arrhythmia/214.txt">
+      <file leaf-file-name="AF_Model.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Data/MITBIH_AF/AF_Model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="34575">
-              <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.4220963" vertical-offset="1415" max-vertical-offset="1768">
+              <caret line="92" column="27" selection-start-line="92" selection-start-column="27" selection-end-line="92" selection-end-column="27" />
+              <folding>
+                <element signature="e#116#134#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04048.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/MITBIH_AF/04048.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="29110" max-vertical-offset="71604">
+              <caret line="3431" column="50" selection-start-line="3431" selection-start-column="50" selection-end-line="3431" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="16272.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data/MITBIH_Normal/16272.txt">
+      <file leaf-file-name="04126.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/MITBIH_AF/04126.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="56234" max-vertical-offset="56670">
-              <caret line="3772" column="0" selection-start-line="3772" selection-start-column="0" selection-end-line="3772" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="96082" max-vertical-offset="100245">
+              <caret line="6409" column="50" selection-start-line="6409" selection-start-column="44" selection-end-line="6409" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="16265.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data/MITBIH_Normal/16265.txt">
+      <file leaf-file-name="106.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/MITBIH_Arrhythmia/106.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="64619" max-vertical-offset="79665">
-              <caret line="5305" column="0" selection-start-line="5305" selection-start-column="0" selection-end-line="5305" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="31575">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="30.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data/Sudden_Cardiac_Death/30.txt">
+      <file leaf-file-name="234.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/MITBIH_Arrhythmia/234.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="885780">
-              <caret line="1" column="50" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="41565">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -86,7 +98,7 @@
       <file leaf-file-name="04015.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data/MITBIH_AF/04015.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="75689" max-vertical-offset="76065">
+            <state vertical-scroll-proportion="0.0" vertical-offset="68279" max-vertical-offset="76065">
               <caret line="5063" column="27" selection-start-line="5063" selection-start-column="27" selection-end-line="5063" selection-end-column="27" />
               <folding />
             </state>
@@ -96,7 +108,7 @@
       <file leaf-file-name="00735.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data/MITBIH_AF/00735.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="47505">
+            <state vertical-scroll-proportion="0.0" vertical-offset="13942" max-vertical-offset="47505">
               <caret line="1" column="45" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
               <folding />
             </state>
@@ -106,18 +118,8 @@
       <file leaf-file-name="04043.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data/MITBIH_AF/04043.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="41025" max-vertical-offset="96030">
-              <caret line="2735" column="49" selection-start-line="2735" selection-start-column="49" selection-end-line="2735" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="31.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data/Sudden_Cardiac_Death/31.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="920550">
-              <caret line="1" column="50" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="96000">
+              <caret line="1" column="50" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -140,12 +142,15 @@
         <option value="$PROJECT_DIR$/Data/Sudden_Cardiac_Death/31.txt" />
         <option value="$PROJECT_DIR$/Data/MITBIH_AF/00735.txt" />
         <option value="$PROJECT_DIR$/Data/MITBIH_AF/04015.txt" />
-        <option value="$PROJECT_DIR$/Data/MITBIH_AF/04043.txt" />
         <option value="$PROJECT_DIR$/Data/MITBIH_Normal/16265.txt" />
         <option value="$PROJECT_DIR$/Data/MITBIH_Normal/16272.txt" />
         <option value="$PROJECT_DIR$/Data/MITBIH_Arrhythmia/214.txt" />
         <option value="$PROJECT_DIR$/Data/Sudden_Cardiac_Death/44.txt" />
         <option value="$PROJECT_DIR$/Model/HRTModel.py" />
+        <option value="$PROJECT_DIR$/Data/MITBIH_AF/04043.txt" />
+        <option value="$PROJECT_DIR$/Data/MITBIH_AF/04126.txt" />
+        <option value="$PROJECT_DIR$/Data/MITBIH_AF/04048.txt" />
+        <option value="$PROJECT_DIR$/Data/MITBIH_AF/AF_Model.py" />
       </list>
     </option>
   </component>
@@ -316,7 +321,12 @@
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
   </component>
-  <component name="RunManager" selected="Python.HRTModel">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Data/MITBIH_Arrhythmia" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.AF_Model">
     <configuration default="false" name="HRTModel" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -330,6 +340,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="HeartRateMonitoring" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Model/HRTModel.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="AF_Model" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data/MITBIH_AF" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HeartRateMonitoring" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data/MITBIH_AF/AF_Model.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -456,12 +484,14 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Python.HRTModel" />
+      <item index="1" class="java.lang.String" itemvalue="Python.AF_Model" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.HRTModel" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.AF_Model" />
+        <item index="1" class="java.lang.String" itemvalue="Python.HRTModel" />
       </list>
     </recent_temporary>
   </component>
@@ -489,7 +519,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32890365" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32890365" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -675,26 +705,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data/MITBIH_AF/04043.txt">
+    <entry file="file://$PROJECT_DIR$/Data/Sudden_Cardiac_Death/44.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="96030">
-          <caret line="2735" column="49" selection-start-line="2735" selection-start-column="49" selection-end-line="2735" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/MITBIH_AF/00735.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="47505">
-          <caret line="1" column="45" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/MITBIH_Normal/16272.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="56234" max-vertical-offset="56670">
-          <caret line="3772" column="0" selection-start-line="3772" selection-start-column="0" selection-end-line="3772" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.7606383" vertical-offset="69809" max-vertical-offset="70185">
+          <caret line="4673" column="0" selection-start-line="4673" selection-start-column="0" selection-end-line="4673" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -707,9 +721,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Data/MITBIH_Normal/16272.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.92021275" vertical-offset="56234" max-vertical-offset="56670">
+          <caret line="3772" column="0" selection-start-line="3772" selection-start-column="0" selection-end-line="3772" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Data/MITBIH_Normal/16265.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="64619" max-vertical-offset="79665">
+        <state vertical-scroll-proportion="39.776596" vertical-offset="64619" max-vertical-offset="79665">
           <caret line="5305" column="0" selection-start-line="5305" selection-start-column="0" selection-end-line="5305" selection-end-column="0" />
           <folding />
         </state>
@@ -723,22 +745,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data/MITBIH_AF/04015.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="75689" max-vertical-offset="76065">
-          <caret line="5063" column="27" selection-start-line="5063" selection-start-column="27" selection-end-line="5063" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/Sudden_Cardiac_Death/44.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="66007" max-vertical-offset="70185">
-          <caret line="4673" column="0" selection-start-line="4673" selection-start-column="0" selection-end-line="4673" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Data/Sudden_Cardiac_Death/31.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="920550">
@@ -747,11 +753,205 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Data/MITBIH_Arrhythmia/203.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-123.268616" vertical-offset="46349" max-vertical-offset="46725">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/MITBIH_Arrhythmia/228.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="32220">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/MITBIH_Arrhythmia/222.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.367022" vertical-offset="10290" max-vertical-offset="39615">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/MITBIH_Arrhythmia/230.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-56.32979" vertical-offset="21180" max-vertical-offset="37095">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/MITBIH_Arrhythmia/201.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="22.140957" vertical-offset="0" max-vertical-offset="30690">
+          <caret line="555" column="48" selection-start-line="555" selection-start-column="0" selection-end-line="555" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/MITBIH_Arrhythmia/200.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.699468" vertical-offset="18203" max-vertical-offset="41985">
+          <caret line="820" column="26" selection-start-line="820" selection-start-column="26" selection-end-line="820" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/MITBIH_Arrhythmia/207.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6045" max-vertical-offset="35880">
+          <caret line="122" column="46" selection-start-line="122" selection-start-column="46" selection-end-line="122" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/MITBIH_Arrhythmia/221.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-56.983" vertical-offset="20115" max-vertical-offset="37035">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/MITBIH_Arrhythmia/219.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.889519" vertical-offset="6315" max-vertical-offset="34785">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/MITBIH_Arrhythmia/208.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1725" max-vertical-offset="45705">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/MITBIH_Arrhythmia/100.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="34215">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/MITBIH_Arrhythmia/103.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="31470">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/MITBIH_Arrhythmia/119.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="31515">
+          <caret line="86" column="42" selection-start-line="86" selection-start-column="42" selection-end-line="86" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/MITBIH_Arrhythmia/202.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="32295">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/MITBIH_Arrhythmia/212.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="41550">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/MITBIH_Arrhythmia/234.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="41565">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/MITBIH_Arrhythmia/106.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="31575">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/MITBIH_AF/00735.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="47505">
+          <caret line="1" column="45" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/MITBIH_AF/04015.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="68279" max-vertical-offset="76065">
+          <caret line="5063" column="27" selection-start-line="5063" selection-start-column="27" selection-end-line="5063" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Model/HRTModel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38112524" vertical-offset="405" max-vertical-offset="1650">
-          <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="2055">
+          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/MITBIH_AF/04043.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="96000">
+          <caret line="1" column="50" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/MITBIH_Arrhythmia/101.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="28215">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/MITBIH_AF/04126.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="96082" max-vertical-offset="100245">
+          <caret line="6409" column="50" selection-start-line="6409" selection-start-column="44" selection-end-line="6409" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/MITBIH_AF/04048.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="58248" max-vertical-offset="71604">
+          <caret line="3431" column="50" selection-start-line="3431" selection-start-column="50" selection-end-line="3431" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/MITBIH_AF/AF_Model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4220963" vertical-offset="1415" max-vertical-offset="1768">
+          <caret line="92" column="27" selection-start-line="92" selection-start-column="27" selection-end-line="92" selection-end-column="27" />
+          <folding>
+            <element signature="e#116#134#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

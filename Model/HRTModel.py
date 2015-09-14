@@ -41,8 +41,10 @@ def getSec_Rest(s):
 
 if __name__ == "__main__":
     # Read data
-    RecordNum = '16272'
-    FilePath = "../Data/MITBIH_Normal/"+ str(RecordNum) + ".txt"
+    RecordNum = '00735'
+    # AF : 201, 202, 203
+
+    FilePath = "../Data/MITBIH_AF/"+ str(RecordNum) + ".txt"
     File = open(FilePath, 'rb')
 
     Dict_HRV = dict()
@@ -55,9 +57,21 @@ if __name__ == "__main__":
     Time = list()
     RIdx = list()
     BeatLabel = list()
+    EpisodeLabel = list()
+
     for a in File.readlines():
         A = a.split(" ")
         A = [a for a in A if a != '']
+        LastElem =  A[-1]
+        LastElem = LastElem.replace("\n","")
+        LastElem = LastElem.replace('\t','')
+        LastElem = LastElem.replace('0','')
+        if LastElem == '':
+            EpisodeLabel.append(EpisodeLabel[-1])
+        else:
+            LastElem = LastElem.replace('(','')
+            LastElem = LastElem.replace(')','')
+            EpisodeLabel.append(LastElem)
         if idx > 0:
             time = A[0]
             rIdx = A[1]
@@ -65,30 +79,43 @@ if __name__ == "__main__":
             time = time.replace('[','')
             time = time.replace(']','')
             # print time
-            Sec = getSec_Rest(time)
+            Sec = getSec_Arr(time)
 
             Time.append(Sec)
             RIdx.append(rIdx)
             BeatLabel.append(beatLabel)
 
         idx += 1
-        if idx > 1000:
-            break
+
     Time = np.array(Time)
     RR = Time[1:] - Time[:-1]
 
+
+    plt.figure()
+    plt.title(RecordNum)
     for idx in range(len(RR)):
         rr = RR[idx]
         current_Beat = BeatLabel[idx+1]
         rIdx = RIdx[idx+1]
         CurrentTime = Time[idx]
+        episodeLabel = EpisodeLabel[idx]
 
-        print rIdx, CurrentTime, rr, current_Beat
+        print rIdx, CurrentTime, rr, current_Beat, episodeLabel
 
-        if current_Beat == 'V' or current_Beat == 'r':
+        if episodeLabel == 'N':
+            plt.plot(rIdx, rr, 'bo')
+        elif episodeLabel == "AFIB":
             plt.plot(rIdx, rr, 'ro')
         else:
-            plt.plot(rIdx, rr, 'bo')
+            plt.plot(rIdx, rr, 'go')
+
+    rrSum = 0
+    # plt.figure()
+    # for idx in range(len(RR)):
+    #     rIdx = RIdx[idx+1]
+    #     rr = RR[idx]
+    #     rrSum += rr
+    #     plt.plot(idx, rrSum,'bo')
 
     plt.show()
 
